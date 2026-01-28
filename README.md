@@ -7,7 +7,7 @@ The goal is not just to “learn a framework”, but to understand how backend s
 🎯 Objectives
 
 Master core backend concepts using Node.js and Express
-Understand how servers, APIs, and databases interact
+Understand how servers, APIs, and databases interact.
 Build secure, scalable, and well-structured applications
 Prepare for software engineering interviews and real-world projects
 
