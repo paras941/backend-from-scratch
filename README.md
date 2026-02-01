@@ -45,4 +45,4 @@ Rate limiting
 Caching (Redis)
 Pagination & filtering
 Logging & monitoring
-Basic system design patterns
+Basic system design patterns.
