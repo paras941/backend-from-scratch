@@ -1,6 +1,6 @@
 Backend From Scratch 🚀
 
-This repository documents my journey of learning and building backend systems from the ground up — focusing on real-world concepts, clean architecture, and production-ready practices..
+This repository documents my journey of learning and building backend systems from the ground up — focusing on real-world concepts, clean architecture, and production-ready practices.
 
 The goal is not just to “learn a framework”, but to understand how backend systems actually work: from handling HTTP requests to designing scalable APIs and working with databases, authentication, and system fundamentals.
 
