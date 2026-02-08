@@ -11,7 +11,7 @@ Framework	Express.js
 Templating	EJS
 Database	MongoDB, SQL (Basics)
 ODM	Mongoose
-Auth	Cookies, Sessions, Authorization
+Authentication	Cookies, Sessions, Authorization
 Tools	npm, nodemon
 Version Control	Git, GitHub
 📂 Project Structure
@@ -26,7 +26,7 @@ Chapter 7 - npm and Tools	npm, packages, nodemon
 Chapter 8 - Errors and Debugging	Error handling & debugging
 Chapter 9 - Introduction to Express	Express fundamentals
 Chapter 10 - Express Deepdive	Advanced Express concepts
-Chapter 10 - airbnb	Airbnb-style project (Express)
+Chapter 10 - airbnb	Airbnb-style Express project
 Chapter 11 - airbnb styling	Styling Express + EJS app
 Chapter 12 - Dynamic UI using EJS	Server-side rendering with EJS
 Chapter 13 - MVC	Model-View-Controller architecture
@@ -35,7 +35,7 @@ Chapter 15 - Introduction to SQL	SQL basics
 Chapter 16 - Introduction to MongoDB	NoSQL database concepts
 Chapter 17 - Introduction to Mongoose	MongoDB with Mongoose
 Chapter 18 - Cookies and Sessions	Session management
-Chapter 19 - Authentication and Authorization	Login, auth & access control
+Chapter 19 - Authentication and Authorization	Login & access control
 Chapter 20 - Image Upload and Download	File handling
 Chapter 21 - REST API and JSON Requests	RESTful APIs
 node-routing	Routing practice
@@ -51,31 +51,3 @@ Step-by-step progression	Fancy frontend
 Strong fundamentals	Framework hopping
 Interview-relevant basics	Resume padding
 🧠 Key Concepts Covered
-Area	Topics
-Core Node.js	Event Loop, HTTP, Streams
-Express	Routing, Middleware, MVC
-Templating	EJS, dynamic rendering
-Databases	SQL basics, MongoDB
-Auth	Cookies, Sessions, Authorization
-APIs	REST, JSON
-File Handling	Image upload/download
-▶️ How to Run Any Chapter
-npm install
-nodemon app.js
-
-
-(or replace app.js with the entry file of that chapter)
-
-📌 Why This Repo Exists
-
-I built this repo to:
-
-Understand backend from first principles
-
-Avoid shallow “framework-only” learning
-
-Build a strong foundation for real backend systems
-
-📜 License
-
-This project is for learning and educational purposes.
