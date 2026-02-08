@@ -15,7 +15,7 @@ This project is focused on fundamentals + implementation, not shallow tutorial c
 *  npm
 *  nodemon
 *  Git & GitHub
-
+```
 📂 Project Structure
 backend-from-scratch/
 ├── .vscode/
@@ -48,7 +48,7 @@ backend-from-scratch/
 ├── node_modules
 ├── package.json
 └── README.md
-
+```
 ⚙️ Backend Concepts Covered
 Area	Topics
 * Core Node.js	Event Loop, HTTP, Request/Response
