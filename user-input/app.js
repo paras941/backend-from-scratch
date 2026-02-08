@@ -16,8 +16,7 @@ const server = http.createServer((req, res) => {
       </form>
     `);
   }
-
- 
+   
   else if (req.method === 'POST' && req.url === '/submit') {
     let body = '';
 

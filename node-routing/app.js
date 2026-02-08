@@ -1,8 +1,6 @@
 const http = require('http');
-
 const server = http.createServer((req, res) => {
   const url = req.url;
-
   
   if (url === '/') {
     res.writeHead(200, { 'Content-Type': 'text/html' });
@@ -16,8 +14,7 @@ const server = http.createServer((req, res) => {
       </ul>
     `);
   }
-
-
+  
   else if (url === '/men') {
     res.writeHead(200, { 'Content-Type': 'text/html' });
     res.end('<h1>Men Section</h1><a href="/">Back</a>');
