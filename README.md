@@ -1,6 +1,6 @@
 Backend From Scratch 🚀
 
-A structured backend learning repository built with Node.js and Express, covering backend development from absolute basics to real-world concepts like MVC architecture, databases, authentication, sessions, file handling, and REST APIs.
+A structured backend learning repository built with Node.js and Express, covering backend development from absolute basics to real-world concepts like MVC architecture, databases, authentication, sessions, file handling, and REST APIs..
 
 This project is focused on fundamentals + implementation, not shallow tutorial copying. It’s meant for concept clarity, interview prep, and long-term backend understanding.
 
