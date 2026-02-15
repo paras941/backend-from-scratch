@@ -90,8 +90,6 @@ nodemon app.js
 * JWT-based authentication
 * Role-based authorization
 
-Deployment (Render / Railway)
-
 📜 License
 
 This project is for learning and educational purposes.
