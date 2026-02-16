@@ -83,6 +83,15 @@ nodemon app.js
 * Interview-relevant	Resume padding
 * Step-by-step progression	Fancy frontend project
 
+🔐 Authentication & Authorization (Production-Oriented)
+
+* Password hashing using bcrypt
+* Session-based authentication using express-session
+* Cookie handling
+* Protected routes (middleware-based access control)
+* Role-based authorization (User / Admin)
+* Login & Logout flow
+
 🔮 Future Improvements
 
 * One consolidated backend project
